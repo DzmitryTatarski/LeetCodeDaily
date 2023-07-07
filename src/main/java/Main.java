@@ -1,12 +1,12 @@
-import task6.Solution;
+import task7.Solution;
 
 // the class to check results
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(14 / 4);
         Solution solution = new Solution();
-        System.out.println(solution.convert("PAYPALISHIRING", 3));
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(solution.reverse(-1000000009));
 
     }
 
