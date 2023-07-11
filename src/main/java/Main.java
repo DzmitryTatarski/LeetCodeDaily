@@ -1,4 +1,4 @@
-import task10.Solution;
+import task1x.task10.Solution;
 
 // the class to check results
 public class Main {

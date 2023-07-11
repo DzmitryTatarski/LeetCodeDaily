@@ -1,4 +1,4 @@
-package task7;
+package task0x.task7;
 
 public class Solution {
 

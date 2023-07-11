@@ -1,4 +1,4 @@
-package task2;
+package task0x.task2;
 
 public class ListNode {
 

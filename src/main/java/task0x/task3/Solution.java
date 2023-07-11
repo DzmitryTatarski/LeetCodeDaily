@@ -1,4 +1,4 @@
-package task3;
+package task0x.task3;
 
 import java.util.HashSet;
 import java.util.Set;
