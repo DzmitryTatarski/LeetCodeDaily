@@ -1,13 +1,13 @@
-import task1x.task13.Solution;
+import task1x.task14.Solution;
 
 // the class to check results
 public class Main {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(1994 / 1000);
-        System.out.println(1994 % 1000);
-        System.out.println(solution.romanToInt("MCMXCIV"));
+        StringBuilder a = new StringBuilder();
+        a.append("");
+        System.out.println(solution.longestCommonPrefix(new String[]{""}));
 
     }
 
