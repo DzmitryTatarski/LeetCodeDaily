@@ -1,4 +1,4 @@
-import task1x.task12.Solution;
+import task1x.task13.Solution;
 
 // the class to check results
 public class Main {
@@ -7,7 +7,7 @@ public class Main {
         Solution solution = new Solution();
         System.out.println(1994 / 1000);
         System.out.println(1994 % 1000);
-        System.out.println(solution.intToRoman(1650));
+        System.out.println(solution.romanToInt("MCMXCIV"));
 
     }
 
