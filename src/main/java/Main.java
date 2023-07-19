@@ -1,13 +1,11 @@
-import task1x.task14.Solution;
+import task1x.task15.Solution;
 
 // the class to check results
 public class Main {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        StringBuilder a = new StringBuilder();
-        a.append("");
-        System.out.println(solution.longestCommonPrefix(new String[]{""}));
+        System.out.println(solution.threeSum(new int[]{-2,0,0,2,2}));
 
     }
 
