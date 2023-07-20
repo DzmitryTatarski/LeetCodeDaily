@@ -1,11 +1,11 @@
-import task1x.task15.Solution;
+import task1x.task16.Solution;
 
 // the class to check results
 public class Main {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.threeSum(new int[]{-2,0,0,2,2}));
+        System.out.println(solution.threeSumClosest(new int[]{0,0,0}, 1));
 
     }
 
